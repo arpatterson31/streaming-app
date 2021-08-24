@@ -1,6 +1,6 @@
 # Streaming App
 
-Twitch Clone using React and Redux for our front-end application.
+Twitch Clone using React and Redux for the front-end application.
 
 API Server to store the list of streams/channels.
 

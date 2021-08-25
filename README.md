@@ -20,3 +20,7 @@ OAuth Credentials
 - Will be able to create a new channel or stream
 - Will be able to edit a channel or stream
 - Will be able to delete a channel or stream
+
+## Links and Resources
+
+- [Google API OAuth 2.0](https://developers.google.com/identity/protocols/oauth2)

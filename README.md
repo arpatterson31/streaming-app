@@ -2,7 +2,7 @@
 
 Twitch Clone using React and Redux for the front-end application.
 
-API Server to store the list of streams/channels.
+API Server to store the list of streams/channels. -- handled using json-server running on localhost:3001/streams
 
 RTMP (Real Time Messaging Protocol) Server to handle the video stream to show to the user.
 

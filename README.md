@@ -13,7 +13,7 @@ OAuth Credentials
 ### Users NOT logged in
 
 - Will be able to view list of video to stream
-- Will be able to view view for 1 stream/channel
+- Will be able to view 1 channel or stream
 
 ### Users that ARE logged in
 

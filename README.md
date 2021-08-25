@@ -24,3 +24,4 @@ OAuth Credentials
 ## Links and Resources
 
 - [Google API OAuth 2.0](https://developers.google.com/identity/protocols/oauth2)
+- [Google API Authentication Methods Docs](https://developers.google.com/identity/sign-in/web/reference#authentication)

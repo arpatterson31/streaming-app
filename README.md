@@ -25,3 +25,4 @@ OAuth Credentials
 
 - [Google API OAuth 2.0](https://developers.google.com/identity/protocols/oauth2)
 - [Google API Authentication Methods Docs](https://developers.google.com/identity/sign-in/web/reference#authentication)
+- [Redux Form](https://redux-form.com/8.3.0/)

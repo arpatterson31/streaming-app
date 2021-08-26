@@ -1,4 +1,5 @@
 import streamsAPI from '../apis/streamsAPI';
+import history from '../history';
 import {
   SIGN_IN,
   SIGN_OUT,
@@ -27,6 +28,9 @@ export const createStream = formValues => async (dispatch, getState) => {
   const response = await streamsAPI.post('/streams', { ...formValues, userId });
 
   dispatch({ type: CREATE_STREAM, payload: response.data });
+
+  // programmatic nav to get user back to root route..push is how to nav and str will be the route
+  history.push('/')
 };
 
 export const fetchStreams = () => async dispatch => {
